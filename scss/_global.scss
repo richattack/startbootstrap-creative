@@ -38,6 +38,9 @@ h6 {
 
 .bg-primary {
   background-color: $primary !important;
+  p {
+    line-height: 1.85em;
+  }
 }
 
 .bg-dark {
